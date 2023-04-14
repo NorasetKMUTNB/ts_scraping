@@ -1,0 +1,93 @@
+{
+    "504a6cf22e0ad396b112bcd87bbf3b96": {
+        "dimension": [
+            "Entry_id",
+            "Date_year",
+            "Time",
+            "Humidity"
+        ],
+        "measure": [
+            "Light Value",
+            "Temperature",
+            "PM2.5"
+        ]
+    },
+    "f8db743c721b707ec08515fd43a20b90": {
+        "dimension": [
+            "Entry_id",
+            "Date_year",
+            "Time",
+            "Humidity"
+        ],
+        "measure": [
+            "Light Value",
+            "Temperature",
+            "PM2.5"
+        ]
+    },
+    "481481dd44eae1e1c613221f595d7a82": {
+        "dimension": [
+            "Entry_id",
+            "Date_year",
+            "Time",
+            "Humidity"
+        ],
+        "measure": [
+            "Light Value",
+            "Temperature",
+            "PM2.5"
+        ]
+    },
+    "ef90d0515a53cccb227e60aa7c2c0441": {
+        "dimension": [
+            "Entry_id",
+            "Date_year",
+            "Time",
+            "Humidity"
+        ],
+        "measure": [
+            "Light Value",
+            "Temperature",
+            "PM2.5"
+        ]
+    },
+    "89df595555b463fb904283f3cde2e63e": {
+        "dimension": [
+            "Entry_id",
+            "Date_year",
+            "Time"
+        ],
+        "measure": [
+            "Light Value",
+            "Temperature",
+            "RH",
+            "PM2.5"
+        ]
+    },
+    "488cd53ed07ae3ecd8c969bad7d19645": {
+        "dimension": [
+            "Entry_id",
+            "Date_year",
+            "Time"
+        ],
+        "measure": [
+            "Light Value",
+            "Temperature",
+            "RH",
+            "PM"
+        ]
+    },
+    "d5b0c889f9f6a9b1e456e36d84664b6b": {
+        "dimension": [
+            "Entry_id",
+            "Date_year",
+            "Time"
+        ],
+        "measure": [
+            "Light Value",
+            "Temperature",
+            "RH",
+            "PM"
+        ]
+    }
+}

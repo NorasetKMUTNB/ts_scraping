@@ -1,5 +1,11 @@
 import requests
 
+from Widgets.DataManager import DataManager
+from Widgets.RequestTS import RequestTS
+
+dm = DataManager
+rts = RequestTS
+
 # replace CHANNEL_ID with your ThingSpeak channel ID
 # url = "https://api.thingspeak.com/channels/{}/feeds/last.json".format("2067797")
 # msg = requests.get("https://thingspeak.com/channels/2067797/field/1")
