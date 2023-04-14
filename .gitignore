@@ -2,3 +2,6 @@ __pycache__
 *.csv
 *.ipynb
 demo.py
+้hist.json
+req-chatgpt.py
+req-cloud.py
